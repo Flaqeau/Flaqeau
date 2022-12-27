@@ -1,16 +1,14 @@
-### Hi there 👋
+![Flaqeau](https://github.com/Flaqeau/Flaqeau/blob/main/readme-flaco.png)
+---
 
-<!--
-**Flaqeau/Flaqeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>
+#### 🤔 **What is your name, where are you from and what do you do for a living?**
+My name is Kevin, I am under the pseudonym of Flaco. I live in France.
+<br/>
+In everyday life, I'm partly on Discord, I volunteer for several communities of different sizes as a moderator and other more important roles.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>
+#### ⛺ **What are your hobbies and what do you do in your free time?**
+As I said before, I volunteer for different communities on Discord.
+<br/>
+But apart from volunteering, I'm a big fan of music, movies and series as well as art.
