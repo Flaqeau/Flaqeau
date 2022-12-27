@@ -15,7 +15,7 @@ But apart from volunteering, I'm a big fan of music, movies and series as well a
 
 >
 #### 🪴 Socials
-[💭 Discord - Profile](https://discord.com/users/242843345196548097) ・ [🐦 My Twitter](https://twitter.com/Flaqeau)
+[💭 Discord - Profile](https://discord.com/users/242843345196548097) ・ [💭 Discord - Server](https://discord.gg/JwdFZmm6y2) ・ [🐦 My Twitter](https://twitter.com/Flaqeau)
 
 >
 #### 🪐 **Projects**
