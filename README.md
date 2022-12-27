@@ -28,6 +28,6 @@ But apart from volunteering, I'm a big fan of music, movies and series as well a
 
 >
 #### ❤️ **Supporters**
-Contributors for : [@SlashFR](https://github.com/SlashFR), [@Androz2091](https://github.com/Androz2091) & [@Yeikzy](https://github.com/Yeikzy)<br/>
+Contributors for : [@SlashFR/@DiscordFR](https://github.com/discordfr), [@Androz2091](https://github.com/Androz2091) & [@Yeikzy](https://github.com/Yeikzy)<br/>
 
 [![Discord](https://lanyard.cnrad.dev/api/242843345196548097)](https://discord.com/users/242843345196548097)
