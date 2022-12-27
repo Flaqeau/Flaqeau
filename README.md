@@ -12,3 +12,20 @@ In everyday life, I'm partly on Discord, I volunteer for several communities of 
 As I said before, I volunteer for different communities on Discord.
 <br/>
 But apart from volunteering, I'm a big fan of music, movies and series as well as art.
+
+>
+#### 🪴 Socials
+[💭 Discord - Profile](https://discord.com/users/242843345196548097) ・ [🐦 My Twitter](https://twitter.com/Flaqeau)
+
+>
+#### 🪐 **Projects**
+[Aide Réseaux](https://discord.gg/reseaux) ・ Community Advocacy
+<br/>
+[Discord Resources](https://discordresources.com/) ・ French Translator & Community Helper
+<br/>
+
+>
+#### ❤️ **Supporters**
+Contributors for : [@SlashFR](https://github.com/SlashFR), [@Androz2091](https://github.com/Androz2091) & [@Yeikzy](https://github.com/Yeikzy)<br/>
+
+[![Discord](https://lanyard.cnrad.dev/api/242843345196548097)](https://discord.com/users/242843345196548097)
