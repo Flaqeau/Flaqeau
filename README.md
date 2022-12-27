@@ -1,4 +1,4 @@
-![Flaqeau](https://github.com/Flaqeau/Flaqeau/blob/main/readme-flaco.png)
+![Flaqeau](https://github.com/Flaqeau/Flaqeau/blob/main/readme.png)
 ---
 
 >
