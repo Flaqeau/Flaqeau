@@ -30,4 +30,6 @@ But apart from volunteering, I'm a big fan of music, movies and series as well a
 #### ❤️ **Supporters**
 Contributors for : [@SlashFR/@DiscordFR](https://github.com/discordfr), [@IchiiDev](https://github.com/IchiiDev), [@Androz2091](https://github.com/Androz2091)<br/>
 
-[![Discord](https://lanyard.cnrad.dev/api/242843345196548097)](https://discord.com/users/242843345196548097)
+<div align="center">
+<img src="https://lanyard.cnrad.dev/api/242843345196548097" align="center">
+</div>
