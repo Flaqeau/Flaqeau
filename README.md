@@ -15,13 +15,13 @@ But apart from volunteering, I'm a big fan of music, movies and series as well a
 
 >
 #### 🪴 Socials
-[💭 Discord - Profile](https://discord.com/users/242843345196548097) ・ [💭 Discord - Server](https://discord.gg/JwdFZmm6y2) ・ [🐦 My Twitter](https://twitter.com/Flaqeau) ・ [🪪 Polywork](https://poly.me/flaco) ・ [🔎 Website](https://flaqeau.carrd.co/)
+[💭 Discord - Profile](https://discord.com/users/242843345196548097) ・ [💭 Discord - Server](https://discord.gg/bqe3zPVJyY) ・ [🐦 My Twitter](https://twitter.com/Flaqeau) ・ [🪪 Polywork](https://poly.me/flaco)
 
 >
 #### 🪐 **Projects**
-[DTesters - Android Mobile Testing](https://discord.com) ・ Community Feedback
+[Aide Réseaux](https://discord.gg/reseaux) ・ Administrator
 <br/>
-[Aide Réseaux](https://discord.gg/reseaux) ・ Community Advocacy
+[DTesters - Android Mobile Testing](https://discord.com) ・ Community Feedback
 <br/>
 [Discord Resources](https://discordresources.com/) ・ French Translator & Community Helper
 <br/>
